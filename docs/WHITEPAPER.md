@@ -1,7 +1,7 @@
 # MeshChain: A Decentralized Blockchain for LoRa Mesh Networks
 
 **Version**: 1.0 (Corrected)  
-**Date**: December 18, 2025  
+**Date**:   
 **Author**: Jamie Johnson  
 **Status**: Technical Whitepaper
 

@@ -1,7 +1,7 @@
 > # MeshChain: A Resilient Ledger for Offline-First Mesh Networks
 > **Version**: 3.0
 > **Date**: December 19, 2025
-> **Author**: Manus AI
+> **Author**: Jamie Johnson
 > **Status**: Technical Whitepaper
 
 ---
